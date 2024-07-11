@@ -21,58 +21,58 @@ mwb, dump 파일은 **resources** 폴더 내부에 있습니다.
 이미지는 **image** 폴더 내부에 있습니다.
 
 ## 📂 ERD
-![img_4.png](images/img_4.png)
+![img_4.png](../images/img_4.png)
 
 ## 🖊️ Class Diagram
-![Class Diagram.png](images%2FClass%20Diagram.png)
+![Class Diagram.png](../images%2FClass%20Diagram.png)
 
 ## 📱 구현 화면
 
 ### 메인 화면
-![img_1.png](images/img_1.png)
+![img_1.png](../images/img_1.png)
 
 ### 회원가입
-![img_10.png](images/img_10.png)
+![img_10.png](../images/img_10.png)
 
 ### 로그인
-![img_11.png](images/img_11.png)
+![img_11.png](../images/img_11.png)
 
 ### 마이페이지
-![img_12.png](images/img_12.png)
+![img_12.png](../images/img_12.png)
 
 ### 회원 정보 수정
-![img_13.png](images/img_13.png)
+![img_13.png](../images/img_13.png)
 
 ### 천문대 목록
-![img_2.png](images/img_2.png)
+![img_2.png](../images/img_2.png)
 
 ### 천문대 정보
-![img_3.png](images/img_3.png)
+![img_3.png](../images/img_3.png)
 
 ### 캠핑장 목록
-![img_17.png](images/img_17.png)
+![img_17.png](../images/img_17.png)
 
 ### 캠핑장 정보
-![img_5.png](images/img_5.png)
+![img_5.png](../images/img_5.png)
 
 ### 오늘의 운세
-![img_6.png](images/img_6.png)
+![img_6.png](../images/img_6.png)
 
 ### 별자리
-![img_7.png](images/img_7.png)
+![img_7.png](../images/img_7.png)
 
 ### 지도
-![img_8.png](images/img_8.png)
-![img_9.png](images/img_9.png)
+![img_8.png](../images/img_8.png)
+![img_9.png](../images/img_9.png)
 
 ### 핫플레이스 목록
-![img_14.png](images/img_14.png)
+![img_14.png](../images/img_14.png)
 
 ### 핫플레이스 등록
-![img_16.png](images/img_16.png)
+![img_16.png](../images/img_16.png)
 
 ### 핫플레이스 정보
-![img_15.png](images/img_15.png)
+![img_15.png](../images/img_15.png)
 
 # 📗 데일리 스크럼
 [230516 월](#anchor-230516)  
